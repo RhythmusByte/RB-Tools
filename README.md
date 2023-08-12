@@ -34,4 +34,4 @@ If you would like to contribute to RB Tools, please feel free to fork the repo a
 
 ## License
 
-RB Tools is licensed under the <a href=" ">MIT Licence</a>.
+RB Tools is licensed under the <a href="https://github.com/RhythmusByte/RB-Tools/blob/alone-patch/LICENSE">MIT Licence</a>.
