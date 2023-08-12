@@ -2,11 +2,7 @@
 
 RB Tools is an open source all-in-one web app that provides users with a variety of tools, such as an analog clock, weather forecast, scientific calculator, TTS, blog page, showcase for the best handpicked websites, quote generator, and more.
 
----
-
-<img src="./Images/Cover.png" width="100%">
-
----
+<a href="https://akhilmahesh.netlify.app/"><img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1691861242/Projects/RB%20Tools/Cover_egdyke.png" width="100%"></a>
 
 The app is being developed by <a href="https://akhilmahesh.netlify.app/">RhythmusByte</a>. I'm passionate about creating useful and user-friendly apps. I also a strong believer in open source software and is excited to share his work with the community.
 
