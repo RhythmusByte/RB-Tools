@@ -2,7 +2,9 @@
 
 ```This project is under development process wait for the time being.```
 
-RB Tools is an open source all-in-one web app that provides users with a variety of tools, such as an analog clock, weather forecast, scientific calculator, TTS, blog page, showcase for the best handpicked websites, quote generator, and more.
+*Check out the project progress from <a href="#progress"> here</a>*
+
+**RB Tools** is an open source all-in-one web app that provides users with a variety of tools, such as an analog clock, weather forecast, scientific calculator, TTS, blog page, showcase for the best handpicked websites, quote generator, and more.
 
 <a href="https://akhilmahesh.netlify.app/"><img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1691861242/Projects/RB%20Tools/Cover_egdyke.png" width="100%"></a>
 
@@ -39,3 +41,51 @@ If you would like to contribute to RB Tools, please feel free to fork the repo a
 ## License
 
 RB Tools is licensed under the <a href="https://github.com/RhythmusByte/RB-Tools/blob/alone-patch/LICENSE">MIT Licence</a>.
+
+---
+
+<h1 id="progress"> Project Name: RB Tools</h1>
+### Project Type: Open Source
+
+#### Aim: To create an all-in-one web app that provides users with varieties of tools.
+---
+##### **FEATURES:**
+* Open Source
+* Responsive Design
+* Animated Pages
+* Ad-Free
+* Day & Night Mode
+* Contact & About Section
+---
+##### TOOLS:
+* Analog Clock
+* Weather Forecast
+* Scientific Calculator (If Possible)
+* TTS
+* Blog Page
+* Showcase for the best handpicked websites
+* Quote Generator
+* Chat Bot using OpenAI API
+* Other features will be added in the future
+---
+##### Risks
+* The app may not be completed on time.
+* The app may not be as user-friendly as expected.
+* Due to limitations may lack some features as expected.
+---
+##### Project Plan
+* [ ] Create analog clock
+- [ ] Create weather forecast
+- [ ] Create scientific calculator
+- [ ] Create API based quote generator
+- [ ] Blog Page
+- [ ] Showcase for website's
+- [ ] Create a TTS page
+- [ ] Create chat bot using API
+- [ ] Create a about section
+- [ ] Create a contact section
+- [ ] Create the design for homepage
+- [ ] Combine everything with homepage
+- [ ] Share with friends and ask for suggestions
+- [ ] Make changes and add some finishing touches
+- [ ] Complete and share
