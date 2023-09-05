@@ -45,6 +45,7 @@ RB Tools is licensed under the <a href="https://github.com/RhythmusByte/RB-Tools
 ---
 
 <h1 id="progress"> Project Name: RB Tools</h1>
+
 ### Project Type: Open Source
 
 #### Aim: To create an all-in-one web app that provides users with varieties of tools.
